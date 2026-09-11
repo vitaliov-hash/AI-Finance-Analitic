@@ -1,0 +1,7 @@
+{
+  "name": "Финансовый Аналитик: Новости & Прогнозы",
+  "description": "Аналитика финансовых новостей в реальном времени из открытых источников (Reuters, CNBC, Yahoo Finance, Investing.com) и оценка их влияния на цены финансовых активов по таймингам.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
